@@ -249,7 +249,7 @@
     .menu ul li {
         display: block;
         padding: 0;
-        border-bottom: 1px solid #da4bfd;
+        border-bottom: 1px solid #dd0000;
     }
     .opener {
         display: block;
@@ -273,7 +273,7 @@
     .signin .btn {
         border: 0;
         padding: 8px 15px;
-        border-bottom: 1px solid #da4bfd;
+        border-bottom: 1px solid #dd000d;
         display: block;
         text-align: left;
         border-radius: 0;
