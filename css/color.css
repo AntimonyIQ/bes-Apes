@@ -7,7 +7,7 @@ _______________________________________________________*/
 body,
 html {
     color: #fff;
-    background: #990000;;
+    background: #990000;
 }
 
 a,
@@ -177,7 +177,7 @@ ul.check-list li span {
 /*----- Token Sale Section -----*/
 
 .token-graphic-detail ul li:before {
-    background: #503f42;
+    background: #ce3e1b;
 }
 
 .token-graphic-detail ul li.color-code-2:before {
@@ -189,11 +189,11 @@ ul.check-list li span {
 }
 
 .token-graphic-detail ul li.color-code-4:before {
-    background: #9e0c0c;
+    background: #a7263d;
 }
 
 .token-graphic-detail ul li.color-code-5:before {
-    background: #ce3e1b;
+    background: #9e0c0c;
 }
 
 .donut {
